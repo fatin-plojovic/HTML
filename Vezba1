@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+
+<style>
+
+p{
+
+    color:red
+}
+h1,h2,h3,h4,h5,h6{
+    color:royalblue
+}
+
+</style>
+</head>
+<body style="background-color:powderblue;;">
+
+    <h1>This is a Heading</h1>
+    <h2>Ovo je heding</h2>
+    <h3>Ovo je isto heding</h3>
+    <h4>I ovaj isto</h4>
+    <h5>Heding</h5>
+    <h6>I ovaj</h6>
+
+    <br>
+
+    <p>Ovo je paragraf</p>
+    <p>I ovo je paragraf</p>
+
+    <br>
+
+    <a href="https://www.w3schools.com">-Go to W3Schools-</a> 
+
+    <br>
+
+    <!-- UMETNUTI SLIKU NOVOG PAZARA -->
+
+    <img src="novipazar.jpg" alt="Novi Pazar">
+
+    <br>
+
+    <!-- Napisite svoje ime crvenim slovima -->
+    <!-- Skolu plavim -->
+    <!-- Razred zutim -->
+
+    <p style="color:red;">Fatin Plojovic</p>
+    <p style="color:blue;">Medresa Gazi Isa Beg</p>
+    <p style="color:yellow;">I-A/2</p>
+
+    <!-- BONUS -->
+    <!-- Ime bela slova crna pozadina -->
+    <!-- Ispisati svoje ime a u pozadini slika novog pazara -->
+
+    <p style="background-color: black;color:white">Fatin Plojovic</p>
+    <p style=>Fatin Plojovic</p>
+
+    <br>
+
+    <h2 style="font-family: cursive;">Elhan</h2>
+
+    <p style="font-size: x-large;">lepo je vreme</p>
+    
+</body>
+</html>
