@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.levi_deo{
+    display: inline-block;
+    width: 20%;
+}
+
+.desni_deo{
+    display: inline-block;
+    width: 78%;
+}
+
+#categori_tekst{
+    margin-bottom: 60px;
+}
+
+#datum_tekst{
+    margin-top: 5px;
+}
